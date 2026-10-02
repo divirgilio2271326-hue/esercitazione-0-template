@@ -1,6 +1,6 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:
+Gruppo:PROVA
 
 Componenti (nome, cognome e username GitHub di entrambi):
 
